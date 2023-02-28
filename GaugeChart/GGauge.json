@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-grogress_gauge",
-      "url": "https://raffaizen.github.io/SACsrc/GaugeChart/GrogressGauge.js",
+      "url": "https://raffaizen.github.io/SACsrc/dist/main.bundle.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
